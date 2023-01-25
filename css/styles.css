@@ -1,0 +1,29 @@
+  /*************TAG SELECTORS****************************************/
+  
+  
+  body {
+    background-color: #A5F1E9;
+  }
+  h1 {
+    color: #0081B4;
+  }
+  h2 {
+    color: #0081B4;
+  }
+  h3 {
+    color: #0081B4;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #0081B4;
+    border-width: 5px;
+    width: 5%;
+  }
+  img {
+    border-radius: 50%;
+  }
+  /*********************CLASS SELECTORS**********************************/
+  .broccoli {
+    background-color: #A5F1E9;
+  }
